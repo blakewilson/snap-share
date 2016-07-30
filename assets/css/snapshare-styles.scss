@@ -74,6 +74,7 @@ $background-color-gplus: #ea4335;
     font-size: 14px;
     text-decoration: none;
     transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+    box-shadow: none !important;
 
     &:before {
       content: "\f1e0";
